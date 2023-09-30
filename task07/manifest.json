@@ -1,0 +1,20 @@
+{
+    "name":"Weather extension",
+    "version":"0.0.3",
+    "manifest_version":3,
+    "browser_action":{
+        "default_popup":"popup.html",
+        "default_icon":"weather-forecast.png"
+    },
+    "icons": {
+        "128":"weather-forecast.png"
+    },
+    "permissions": ["activeTab","storage"],
+    "content_scripts":[
+        {
+            "matches":["<allurls>"],
+            "js":"w.js"
+        }
+    ]
+    
+}
