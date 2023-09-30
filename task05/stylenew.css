@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+nav{    
+    background: #0B0B21;
+    opacity: .9;
+    height: 70px;
+    width: 100%;
+}
+label.home{
+    line-height: 110px;
+    padding: 0 30px;
+    
+}
+nav ul{
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+}
+nav ul li{
+    display: inline-block;
+    line-height: 100px;
+    margin: 0 10px;
+
+}
+
+.name{
+    position: relative;
+    top: 550px;
+    width: auto;    
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    color: aliceblue;
+    font-family: "Lucida Console", "Courier New", monospace;
+
+
+}
+.explore{
+    position: relative;
+    top: 670px;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.title{
+    position: absolute;
+    top: 675px;
+    right: 550px;
+    align-content: center;
+}
+.title1{
+    position: absolute;
+    top: 650px;
+    right: 600px;
+    align-content: center;
+}
+.button{
+    display: inline-flex;
+    height: 50px;
+    padding: 0;
+    background: turquoise;    
+    border-radius: 10px;
+    overflow: hidden;
+    font-family: monospace;
+    font-size: 25px;
+    font-weight: 400;
+    cursor: pointer;
+    border: none;
+    outline: none;
+    justify-content: center;
+}
+.buttontext{
+    display: inline-flex;
+    align-items: center;
+    padding: 0 20px;
+    justify-content: center;
+    height: 100%;
+}

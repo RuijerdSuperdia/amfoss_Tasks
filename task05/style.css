@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+/* ... (your existing CSS) ... */
+
+.nav {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+}
+
+.nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* ... (your existing CSS) ... */
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    text-align: left
+}
+nav{
+    flex: 1;
+    text-align: right;
+    top: 10px;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 20px;
+    margin-top: auto;
+    
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col-2 img{
+    align-items: center;
+    margin-bottom: auto;
+}
+.title{
+    position: absolute;
+    top: 675px;
+    right: 600px;
+    align-content: center;
+}
+.title1{
+    position: absolute;
+    top: 650px;
+    right: 600px;
+    align-content: center;
+}
