@@ -1,3 +1,5 @@
+### Creation of GitHub Repositry
+
 Used git clone url for the cloning the repository
 I created a repository in github and cloned that in my sytem
 Then searched for the required folder using cd comand
