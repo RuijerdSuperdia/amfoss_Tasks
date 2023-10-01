@@ -12,7 +12,7 @@ I have a lot to work on. Once I started doing the tasks I came to know how ignor
 ### HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
 I will do my maximum and to the best of my abilities to aid and help the club and its members with anything. Even if it is just helping with some event or doing a project, I am ready to go all out for any task.
 ### DO YOU HAVE ANY FEEDBACK ON THE SELECTION PROCESS?
-For someone who only knows python, that to basic programming I found may of the task very tough. But after some intense researh and study I managed to do some of the tasks. It was an eye opener for me since I was able to learn may new topics like apis, websrcapping, html, css and many more.<b>
+For someone who only knows python, that to basic programming I found may of the task very tough. But after some intense research and study I managed to do some of the tasks. It was an eye opener for me since I was able to learn may new topics like API's, websrcapping, HTML, CSS and many more.<b>
 Overall the task had a very high standard.
 
 **Tasks List**|**Description**|**Status**
