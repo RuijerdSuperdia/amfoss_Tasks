@@ -17,7 +17,7 @@ Overall the task had a very high standard.
 
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
-[Introspection](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/introspection)|Introspection|Completed
+[Introspection](https://github.com/RuijerdSuperdia/amfoss_Tasks)|Introspection|Completed
 [Task-00](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
 [Task-01](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task01/codes)|Terminal Wizard|Completed
 [Task-02](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task02)|Lessgo Hugo|Completed
