@@ -1,2 +1,0 @@
-LOGIC:
-For example when n=31, the numbers are 3,5,6,9,10,12,15,18,20,21,25,27,30.The multiples divisble by 3 are 3,6,9,12,15,18,21,27,30 and multiples divisible by 5 are 5,10,15,20,25,30, the common multiples are 15,30. When we add each of this we get redendent values, so we need to eliminate that.(3,6,9,12,15,18,21,27,30)+(5,10,15,20,25,30)-(15,30). Here we use the formala for sum of first n natural numbers to obtain the values in the bracket.
