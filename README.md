@@ -18,19 +18,19 @@ Overall the task had a very high standard.
 **Tasks List**|**Description**|**Status**
 --------------|---------------|---------------
 [Introspection](https://github.com/RuijerdSuperdia/amfoss_Tasks)|Introspection|Completed
-[Task-00](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-00)|Installing Ubuntu|Completed
+[Task-00](https://github.com/RuijerdSuperdia/amfoss_Tasks/blob/main/SOLUTION.md)|Installing Ubuntu|Completed
 [Task-01](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task01/codes)|Terminal Wizard|Completed
 [Task-02](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task02)|Lessgo Hugo|Completed
 [Task-03](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task03)|Hello, World!|Completd Partially
-[Task-04](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-04)|Competitive Programming|Completed Partially
+[Task-04](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task04)|Competitive Programming|Completed Partially
 [Task-05](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task05)|Hypertext Mockup Language|Completed
-[Task-06](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-06)|Cricket Vault|Unattempted
-[Task-07](https://github.com/TheHuntsman4/amfoss-tasks/blob/main/task-07/readme.md)|AK-47℃|Completed
-[Task-08](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-08)|Poke-Search!|Unattempted
-[Task-09](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-09)|GeoQuest|Unattempted
-[Task-10](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-10)|RuskOS|Unattempted
-[Task-11](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-11)|TinkerCAD|Unattempted
-[Task-12](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-12)|Godot|Unattempted
-[Task-13](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-13)|Vim|Unattempted
-[Task-14](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/TheHuntsman4/amfoss-tasks/tree/main/task-15)|Project Euler|Completed Partially
+[Task-06](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task06)|Cricket Vault|Unattempted
+[Task-07](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task07)|AK-47℃|Completed
+[Task-08](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task08)|Poke-Search!|Unattempted
+[Task-09](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task09)|GeoQuest|Unattempted
+[Task-10](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task10)|RuskOS|Unattempted
+[Task-11](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task11)|TinkerCAD|Unattempted
+[Task-12](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task12)|Godot|Unattempted
+[Task-13](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task13)|Vim|Completed
+[Task-14](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task14)|Bandit|Completed
+[Task-15](https://github.com/RuijerdSuperdia/amfoss_Tasks/tree/main/task15)|Project Euler|Completed Partially
