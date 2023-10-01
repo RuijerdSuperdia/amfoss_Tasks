@@ -6,7 +6,7 @@ I'm Evan Binu, currently a first year student pursuing Computer Science. Program
 
 ## INTROSPECTION
 ### WHY MUST YOU CHOOSE ME?
-I'm decent at coding and have a grasp on basic the topics. I also can contribute to the development of the group and as the saying goes it is always better to have 2 minds than 1 on a task.
+I'm decent at coding and have a grasp on the basic topics. I also can contribute to the development of the group and as the saying goes it is always better to have 2 minds than 1 on a task.
 ### WHAT'S YOUR PLAN FOR THE NEXT 6 MONTHS?
 I have a lot to work to do. Once I started doing the tasks I came to know the amount of knowledge I was lacking. But I am sure that I will be able to bridge that learning gap in no time.
 ### HOW WOULD YOU CONTRIBUTE BACK TO THE CLUB?
